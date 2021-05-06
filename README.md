@@ -2,7 +2,7 @@
 
 Welcome everyone to where we house a bunch of useful links and the scripts we used for our demos.  We love being transparent and happy to share how we pulled off some demos.
 
-## Useful links from Microsoft Build 2021: BRK21 What's new in Windows 10 for ALL developers
+## Microsoft Build 2021: BRK21 What's new in Windows 10 for ALL developers
 
 ### Session link
 
