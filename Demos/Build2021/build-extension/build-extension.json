@@ -1,0 +1,15 @@
+{
+    "profiles": [
+      {
+        // updates Windows PowerShell profile
+        "updates": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+        "fontSize": 16,
+        "backgroundImage": "%localappdata%/Microsoft/Windows Terminal/Fragments/build-extension/background.png"
+      },
+      {
+        // creates a new profile
+        "name": "Build Profile",
+        "commandline": "powershell.exe"
+      }
+    ]
+  }

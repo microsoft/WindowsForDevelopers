@@ -1,0 +1,38 @@
+{
+    "$schema" : "https://aka.ms/winget-packages.schema.1.0.json",
+    "CreationDate" : "2021-04-13T11:00:20.925-00:00",
+    "Sources" : 
+    [
+/* Commenting out since we want scriptable.  This requires Store to be signed in
+        {
+            "Packages" : 
+            [
+                { "Id" : "Microsoft.WindowsTerminalPreview" }
+            ],
+            "SourceDetails" : 
+            {
+                "Argument" : "https://winget.azureedge.net/msstore",
+                "Identifier" : "Microsoft.Winget.MSStore.Source_8wekyb3d8bbwe",
+                "Name" : "msstore",
+                "Type" : "Microsoft.PreIndexed.Package"
+            }
+        },
+*/
+        {
+            "Packages" : 
+            [
+                { "Id" : "Microsoft.WindowsTerminalPreview" },
+                { "Id" : "Microsoft.PowerToys" },
+                { "Id" : "Microsoft.VisualStudioCode" },
+            ],
+            "SourceDetails" : 
+            {
+                "Argument" : "https://winget.azureedge.net/cache",
+                "Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                "Name" : "winget",
+                "Type" : "Microsoft.PreIndexed.Package"
+            }
+        }
+    ],
+    "WinGetVersion" : "0.2.10971"
+}
