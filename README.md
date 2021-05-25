@@ -6,8 +6,7 @@ Welcome everyone to where we house a bunch of useful links and the scripts we us
 
 ### Session link
 
-Coming Soon!
-
+[BRK210 - What's new in Windows 10 for ALL developers](https://aka.ms/brk210)
 ### Great open source links
 
 - https://github.com/microsoft/terminal
